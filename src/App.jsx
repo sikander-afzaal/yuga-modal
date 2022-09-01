@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <div className="modal">
         <h1>Ready to launch your own NFT project for just $500</h1>
-        <h2>Then this is for you if</h2>
+        <h2>Then this is for you</h2>
         <p>If you have a million dollar idea and you cant wait to launch</p>
         <p>
           You know you can do way better than other NFT projects. <br />
