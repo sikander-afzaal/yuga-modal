@@ -16,7 +16,7 @@ function App() {
           You are ready to be a metaprenuer
         </p>
         <div className="row">
-          <a href="#" className="col">
+          <a href="https://t.me/wagmilabz" target={"blank"} className="col">
             <h3 style={{ color: "#229ED9" }}>
               <FontAwesomeIcon icon={faTelegram} />
               Telegram
@@ -26,25 +26,37 @@ function App() {
               <div className="right-box">
                 <h4>Wagmi Lab</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Officia, similique!
+                  Introducing brands and there communities to the world of
+                  digital collectibles and Nfts, through web3 and the metaverse
                 </p>
+                <h6 style={{ color: "#229ED9" }}>
+                  <FontAwesomeIcon icon={faTelegram} />
+                  Telegram
+                </h6>
               </div>
             </div>
           </a>
-          <a href="#" className="col">
+          <a
+            href="https://discord.com/invite/gaSwDctDYV"
+            target={"blank"}
+            className="col"
+          >
             <h3 style={{ color: " #7289DA" }}>
               <FontAwesomeIcon icon={faDiscord} />
               Discord
             </h3>
             <div className="box">
-              <img src={logo} alt="" />
+              <img src={img} alt="" />
               <div className="right-box">
                 <h4>Join the Wagmi Lab discord server</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Officia, similique!
-                </p>
+                  Check out the WAGMI LABZ community on Discord - hang out with
+                  44 other members and enjoy free voice and text...
+                </p>{" "}
+                <h6 style={{ color: " #7289DA" }}>
+                  <FontAwesomeIcon icon={faDiscord} />
+                  Discord
+                </h6>
               </div>
             </div>
           </a>
@@ -65,7 +77,9 @@ function App() {
           <img src={img} alt="" />
           <div className="text">
             <h5>Wagmi Labz</h5>
-            <h6>www.wagmilabz.com</h6>
+            <a target={"blank"} href="https://www.wagmilabz.com">
+              www.wagmilabz.com
+            </a>
           </div>
         </div>
       </div>
