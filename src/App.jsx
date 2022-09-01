@@ -13,7 +13,7 @@ function App() {
         <p>
           You know you can do way better than other NFT projects. <br />
           You may have an edge over others to be next BAYC <br />
-          You are ready to be a metaprenuer
+          You are ready to be a metapreneur
         </p>
         <div className="row">
           <a href="https://t.me/wagmilabz" target={"blank"} className="col">
